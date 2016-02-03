@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Armin Kohlberger Fitness]]></title>
         <description><![CDATA[Armin Kohlberger Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/armin-kohlberger-fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 08:22:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 08:29:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/armin-kohlberger-fitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56f0273-cd6f-40f6-b59c-fa137d69c047.jpg">]]></description>
+            <link>https://thegrid.ai/armin-kohlberger-fitness/ba42d843-4788-413e-a7e2-8420bd175fed/index.html</link>
+            <guid isPermaLink="false">ba42d843-4788-413e-a7e2-8420bd175fed</guid>
+            <pubDate>Wed, 03 Feb 2016 08:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to my site]]></title>
-            <description><![CDATA[<article><h1>Welcome to my site</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/600ac818614f46ada3748b913ba7a5495bca06b6.png"></article>]]></description>
-            <link>undefinedwelcome-to-my-site/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to my site</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5692feb9f662a1535466bf03ff9bb769f28b8869.png"></article>]]></description>
+            <link>https://thegrid.ai/armin-kohlberger-fitness/welcome-to-my-site/index.html</link>
             <guid isPermaLink="false">e7003da2-5220-45cd-a09e-3e250bdfa092</guid>
             <pubDate>Wed, 03 Feb 2016 08:22:07 GMT</pubDate>
         </item>
