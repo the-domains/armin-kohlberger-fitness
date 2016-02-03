@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T08:32:27.481Z'
-dateModified: '2016-02-03T08:32:23.256Z'
+datePublished: '2016-02-03T11:33:19.292Z'
+dateModified: '2016-02-03T08:33:23.592Z'
 title: Armin Kohlberger Fitness
 author: []
 sourcePath: _posts/2016-02-03-welcome-to-my-site.md
