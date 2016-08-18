@@ -1,28 +1,40 @@
-name: Armin Kohlberger Fitness
-favicon: null
-layout_spectrum: 0.40683538326993585
-typography_spectrum: 0.02880702679976821
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2759857
+  brandStrength: 0.2540557482279837
+  lightness: 0.2939068
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.2540557482279837
-  lightness: 0.14636032609269023
-  saturation: 0.2704118287656456
-  rhythmicContrast: 0.0782938003540039
-purpose: []
+  rhythmicContrast: 0.2132616
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: Armin Kohlberger Fitness
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.06810036
+layout_spectrum: 0
